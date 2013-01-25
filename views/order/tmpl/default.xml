@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="OMS USER ORDER FORM">
+		<message><![CDATA[OMS USER ORDER FORM]]></message>
+	</layout>
+	<state>
+		<name>OMS USER ORDER FORM</name>
+		<description>OMS USER ORDER FORM</description>
+	</state>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="OMS USER PAYMENT FORM">
+		<message><![CDATA[OMS USER PAYMENT FORM]]></message>
+	</layout>
+	<state>
+		<name>OMS USER PAYMENT FORM</name>
+		<description>OMS USER PAYMENT FORM</description>
+	</state>
+</metadata>

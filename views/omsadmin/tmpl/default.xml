@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="OMS ADMIN ORDER LIST">
+		<message><![CDATA[OMS ADMIN ORDER LIST]]></message>
+	</layout>
+	<state>
+		<name>OMS USER ADMIN LIST</name>
+		<description>OMS USER ADMIN LIST</description>
+	</state>
+</metadata>
